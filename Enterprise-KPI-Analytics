@@ -1,0 +1,19 @@
+Enterprise KPI Analytics
+│
+├── 1_Business_Requirements
+│     BRD (Enterprise KPI Transformation).pdf
+│
+├── 2_Jira
+│      Epic - user stories- sprint-completed.png
+│
+├── 3_Data
+│  Superstore_sales_.csv
+│
+├── 4_SQL_Queries
+│    KPI_Queries.sql
+│
+├── 5_PowerBI_Dashboard
+│    Executive_KPI_Dashboard.png
+│    Sales_Trends_Dashboard.png
+│
+└── README.md
